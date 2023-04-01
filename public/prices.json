@@ -1,0 +1,30 @@
+[  {    "id": 1,    "name": "Starter",    "price": 9.99,    "description": "Basic features for personal use",    "features": [      "1 User",      "2 GB Storage",      "Email Support",      "Export Data"    ]
+  },
+  {
+    "id": 2,
+    "name": "Professional",
+    "price": 19.99,
+    "description": "Advanced features for small businesses",
+    "features": [
+      "5 Users",
+      "10 GB Storage",
+      "Phone and Email Support",
+      "Custom Reports",
+      "Automated Backup"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Enterprise",
+    "price": 49.99,
+    "description": "Full suite of features for larger organizations",
+    "features": [
+      "Unlimited Users",
+      "100 GB Storage",
+      "24/7 Support",
+      "Advanced Analytics",
+      "Custom Integrations",
+      "Dedicated Account Manager"
+    ]
+  }
+]
